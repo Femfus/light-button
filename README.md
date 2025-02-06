@@ -1,7 +1,5 @@
 # Dark Mode Toggle
-
-## About
-- this is a simple project i made becuase i was board
+  - this is a simple project i made becuase i was board
 
 ## Files
 - `index.html`: Main HTML structure for the dark mode toggle and FPS display.
