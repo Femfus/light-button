@@ -1,4 +1,4 @@
-# Dark Mode Toggle
+# Light Button Project
   - this is a simple project i made becuase i was board
 
 ## Files
