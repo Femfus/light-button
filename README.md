@@ -1,10 +1,7 @@
-# Dark Mode Toggle and FPS Display
+# Dark Mode Toggle
 
-## Features
-- Displays FPS in the top-left corner.
-- Smooth transition effect when the FPS changes.
-- Lightweight and non-intrusive.
-- Easy to integrate into any Roblox game.
+## About
+- this is a simple project i made becuase i was board
 
 ## Files
 - `index.html`: Main HTML structure for the dark mode toggle and FPS display.
