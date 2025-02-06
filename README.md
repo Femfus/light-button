@@ -11,4 +11,4 @@
 - `styles.css`: Styling for dark and light modes and button.
 - `script.js`: JavaScript for toggling between dark and light modes.
 
-![https://r2.e-z.host/5cb197a3-40f9-4abc-bd23-724aba22b039/rx73vgfj.gif]
+![brave_VJGym7AJwE](https://github.com/user-attachments/assets/54b267c4-ce6d-4d5b-bf47-d90b204c696b)
